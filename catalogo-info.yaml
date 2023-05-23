@@ -9,3 +9,6 @@ spec:
   type: website
   owner: backstage/maintainers
   lifecycle: experimental
+  relations:
+    component:
+      -demo
