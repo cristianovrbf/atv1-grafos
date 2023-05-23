@@ -5,7 +5,8 @@ metadata:
   description: Teste de yaml.
   annotations:
     github.com/project-slug: backstage/atv1-grafos
-    backstage.io/related-component: demo
+    backstage.io/related-component:
+      - demo
 spec:
   type: website
   owner: backstage/maintainers
